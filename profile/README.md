@@ -1,12 +1,20 @@
-## Hi there 👋
+# CTP API Ecosystem Organization
 
-<!--
+Welcome to the CTP API Open Source Community!
 
-**Here are some ideas to get you started:**
+This organization is dedicated to providing comprehensive, multi-language ecosystem support for Shangqi Technology's CTP (Comprehensive Futures Trading Platform). We offer Python wrapper libraries, code examples, performance optimization tools, and related peripheral infrastructure.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Our Goals:
+
+🌍 To lower the barrier to entry for domestic quantitative traders and developers of algorithmic trading systems.
+
+🔧 To provide high-quality, maintainable CTP derivative components and wrappers.
+
+🤝 To harness the collective wisdom of the community to drive the standardization and open-source sharing of the futures quantitative technology stack.
+
+Core Projects:
+
+- [ctp-pybind](https://github.com/ctp-api/ctp-pybind)
+- [ctp-swig](https://github.com/ctp-api/ctp-swig)
+
+We welcome PRs, Issues, and new contributors—join us in enhancing the CTP ecosystem together!
